@@ -1,10 +1,6 @@
 import os
 
 packages = [
-    "python",
-    "python2",
-    "python3",
-    "git",
     "curl",
     "vim",
     "nano",
