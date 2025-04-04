@@ -80,5 +80,9 @@ packages = [
     "pyenv-virtualenvwrapper"
 ]
 
+print("""Paketler Yüklenmeye Alındı.
+Paketler Hazırlandı.
+Paketler Yükleniyor.""")
+
 for package in packages:
     os.system(f"apk add {package}")
