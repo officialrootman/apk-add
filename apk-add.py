@@ -8,6 +8,7 @@ packages = [
     "wget",
     "bash",
     "openssh",
+    "py-pip",
     "zip",
     "unzip",
     "make",
